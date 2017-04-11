@@ -1,0 +1,15 @@
+{
+  "default": {
+    "image": "",
+    "title": "home-domotic",
+    "description": "This proyect is a controller of home domotic with ESP8266",
+    "og:site_name": "",
+    "twitter:site": "",
+    "twitter:creator": ""
+  },
+  "route/subroute": {
+    "title": "",
+    "description": "",
+    "keywords": ""
+  }
+}
